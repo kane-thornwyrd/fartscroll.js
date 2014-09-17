@@ -1,0 +1,31 @@
+{
+  "name": "fartscroll.js",
+  "description": "You want fart noises as you scroll? We've got you covered.",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": {
+    "name": "The Onion",
+    "email": "tech@theonion.com"
+  },
+  "maintainers": [],
+  "main": "main",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "http://www.kko-store.fr",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/kane-thornwyrd/fartscroll.js.git"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/theonion/fartscroll.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "Open",
+      "url": "https://github.com/theonion/fartscroll.js/blob/master/LICENSE"
+    }
+  ]
+}
